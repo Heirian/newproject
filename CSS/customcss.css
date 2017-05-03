@@ -1,0 +1,27 @@
+/* CUSTOM CSS */
+body {
+	margin-top: 1cm;
+}
+.headerspace {
+	margin-bottom: 1cm;
+}
+.titlespace {
+	margin-bottom: 0.1cm;
+}
+.perfilimg {
+	border-radius: 50%;
+	height: 200px;
+	weight: 200px
+}
+p {
+	font-size: 18px;
+}
+.frog {
+	margin-left: 0.4cm;
+	border-radius: 50%;
+	height: 75px;
+	weight: 75px
+}
+.fixfloater {
+	float:left
+}
