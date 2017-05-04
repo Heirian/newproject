@@ -11,7 +11,8 @@ body {
 .perfilimg {
 	border-radius: 50%;
 	height: 200px;
-	weight: 200px
+	weight: 200px;
+	box-shadow: 1px 1px 1px 1px grey;
 }
 a {
 	color: DarkSlateGray;
@@ -24,7 +25,8 @@ p {
 	margin-left: 0.4cm;
 	border-radius: 50%;
 	height: 75px;
-	weight: 75px
+	weight: 75px;
+	box-shadow: 0.1px 0.1px 0.1px 0.1px grey;
 }
 .fixfloater {
 	float:left
