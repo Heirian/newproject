@@ -14,7 +14,8 @@ body {
 	weight: 200px
 }
 p {
-	font-size: 18px;
+	margin-bottom: 0;
+	margin-top: 0
 }
 .frog {
 	margin-left: 0.4cm;
@@ -24,4 +25,20 @@ p {
 }
 .fixfloater {
 	float:left
+}
+.hello {
+	font-size: 40px;
+	font-family: bungee
+}
+.bruno {
+	font-size: 50px;
+	font-family: bungee
+}
+.myname {
+	font-size: 30px;
+	font-family: ewert
+}
+.softdeve {
+	font-size: 28px;
+	font-family: fascinate
 }
